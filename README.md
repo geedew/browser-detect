@@ -1,1 +1,5 @@
-Attempting to detect what browser extensions are currently running by a users browser.
+
+browser-detect
+==============
+
+A simple script for detecting browser extensions
