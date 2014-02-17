@@ -1,0 +1,1 @@
+Attempting to detect what browser extensions are currently running by a users browser.
